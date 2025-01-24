@@ -1,5 +1,5 @@
 # Часть 0
-Изучить плейлист https://www.youtube.com/playlist?list=PLghZex7qsLs8iTMMiD-ic6Rb0oaPgkE2_
+Изучить [плейлист](https://www.youtube.com/playlist?list=PLghZex7qsLs8iTMMiD-ic6Rb0oaPgkE2_)
 # Часть 1
 1) Написать плейбук для проверки доступности ВМ с выводом только ответа сервера (pong)
 2) Написать плейбук для получения информации о целевых хостах с помощью фактов
